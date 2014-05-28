@@ -1,0 +1,240 @@
+@SysInclude { tbl }
+@Include { myreport }
+
+@Database @Reference { refs }
+@Database @RefStyle { refstyle }
+
+@Report
+	@Title { Carl Friderich Milans ophav }
+	@Author { Mikkel Eide Eriksen }
+	@Institution {}
+	@DateLine { Yes }
+	@CoverSheet { Yes }
+	@ContentsSeparate { No }
+	@InitialLanguage { Danish }
+//
+
+@Section
+	@Title { Indledning }
+@Begin
+
+@PP
+Hverken Terslin eller Krarup har sikker dokumentation for Carl Friderich Milans ophav. Dog argumenterer Terslin overbevisende for at han blev født omkring 1676, og at han var søn af Gabriel Milan og Juliana Regina von Breitenbach, begge i deres andet ægteskab.
+
+@PP
+I det følgende vil jeg forsøge at påvise at han istedet var søn af von Breitenbach og dennes første mand, en hidtil ukendt Carel Vreederick @FootNote { Hollandsk stavemåde, på dansk"/"tysk ville det staves Carl Friedrich. } van Barlebendt.
+
+@End @Section
+
+@Section
+	@Title { Tid "&" sted }
+@Begin
+
+@PP
+Til at begynde med klarlægges fødselsår og -sted for at bestemme hvilke kilder der kan være relevante.
+
+@BeginSubSections
+
+@SubSection
+	@Title { Fødselsåret }
+@Begin
+
+@PP
+Første gang Carl Friderich så vidt vides nævnes er da han i 1684 er med på rejsen til St. Thomas @Cite {$krarup2, s. 49}. Desuden er det eneste sted hans alder, og dermed fødselsår, angives ved begravelsen 30. juli 1738 @FootNote { Helligaand kirkebog, døde 1713-1756, "https://familysearch.org/pal:/MM9.3.1/TH-1951-33378-4919-84" }. Her står hans alder som værende 72 år, dvs. født ca. 1666, men det er rimeligvis ca. 1676:
+
+@QuotedDisplay {
+Ifølge denne Aldersopgivelse skulde [Carl Friderich] Milan være født 1666 og saaledes være Søn af Guvernør Gabr. Milan og dennes Hustru ... de Castro; men Arkivar Hatt mener, Kirkebogen tager fejl af Alderen, og at Milan var født ca. 1676, som Søn af Guvernør Milan og dennes @I anden Hustru.
+
+@PP
+At Carl Friderichs ene Datter, saavel som flere af Efterkommerne er opkaldt efter J. Regine Milan, kunde tyde paa, at Hatt har Ret i sin Betragtning.
+
+@PP
+1686 deler Carl Friderich Fangenskabet med Forældrene i Kastellet; det vilde han næppe have gjort, om han paa det Tidspunkt var 20 Aar gl.; det kan bedre passe, at han dengang har været c. 10 Aar. At endelig den reformerte Dronning tager sig af hans Uddannelse, tyder ogsaa paa, at han var Søn af den rimeligvis reformerte Juliane Regina Breitenbach i dennes Ægteskab med Gabr. Milan. - NB. Ogsaa Hirsch meddeler, at Carl Fr. Milans Moder var Juliana Regina Breitenbach.
+
+@PP @Right @Cite {$terslin, s. 64} }
+
+@PP
+Derudover bliver han gift omkring 1700 og fik børn i perioden 1700-1717. Det virker mest sandsynligt at han i perioden har været 24-41 år gammel i modsætning til 34-51. Det har dog ikke været muligt at finde belæg for det.
+
+@PP
+Der er naturligvis ingen stålsat garanti for det ovenstående, men alt i alt peger indicierne på at Terslin har ret i at Carl Friderich Milan blev født omkring 1676.
+
+@End @SubSection
+
+@SubSection
+	@Title { Fødselsstedet }
+@Begin
+
+@PP
+For at anskueliggøre hvor Carl Friderich kan være født, følger her en summarisk fortegnelse over Gabriel Milans ægteskabelige status, kirkelige tilhørsforhold, samt nævnte opholdssteder i perioden omkring 1676.
+
+@TaggedList
+
+@DropTagItem { @Underline { 1674 } }
+	{ Milan fører opsyn med Ulrik Frederik Gyldenløves søn i Holland @Cite {$terslin, s. 18 }. }
+
+@DropTagItem { @Underline { april 1676 } }
+	{ Milan henvender sig til retten i Amsterdam for at klage over smædeskriftet mod Griffenfeld "\""Het Deense Theatrum van Verraad"\"" @FootNote { Skriftet, som oversat fra hollandsk hedder noget lig "\""Det danske Forrædderis Skueplads"\"", kan ses på Google Books: "http://books.google.dk/books?id=XoBOAAAAcAAJ&printsec=frontcover" } @Cite {$krarup1, 115}. }
+
+@DropTagItem { @Underline { 4. februar 1678 } }
+	{ Ifølge et brev er Milan i Utrecht hos Jacob Baron de Petersen (26. sep 1622 - 26. okt 1704) @Cite {$krarup1, s. 124}. }
+
+@DropTagItem { @Underline { juli 1678 } }
+	{ Milan forlader Holland og ankommer i Danmark samme måned @Cite {$krarup1, s. 128} @Cite {$terslin, s. 31}. Han er på det tidspunkt formentlig gift med Juliana Regina von Breitenbach. }
+
+@DropTagItem { @Underline { 1679 } }
+	{ Familien (kone + 13 børn inkl. stedbørn) i København, Milan selv i Glückstadt @Cite {$krarup1, s. 129} }
+
+@DropTagItem { @Underline { 1. januar 1682 } }
+	{ Milan konverterer til protestantisme, attest fra Matthias Biester ved St. Katharinen-kirken i Hamborg @Cite {$krarup1, s. 130}. Var han indtil da katolik som andre spanske og portugisiske konvertitter? Eller hollandsk reformert som Terslin "&" Krarup formoder hans hustru von Breitenbach var? Eller var han en del af den jødiske Portugees Israëlietisch menighed som hans tidligere svigerfar Benjamin Musaphia formodentlig var? }
+
+@EndList
+
+@PP
+Carl Friderich Milans dåb må derfor nok findes i Holland, muligvis nær Amsterdam, uvist hvilken menighed.
+
+@End @SubSection
+
+@EndSubSections
+
+@NP
+
+@End @Section
+
+@Section
+	@Title { Dåben }
+@Begin
+
+@PP
+På ovenstående baggrund har en søgning i Amsterdams kirkebøger tilvejebragt en seddel indsat med en nål ved side 27 @FootNote { "https://familysearch.org/pal:/MM9.3.1/TH-1971-31163-8786-68" } i kirkebogen for @B { Evangelisch Luthers } @I { doopen vol. 160, 1676-1679 } @FootNote { Kirkebogen er iøvrigt ført på en lidt speciel måde: Den er inddelt i år, hvert år er inddelt i alfabetets bogstaver, og endelig har hvert bogstav en kronologisk fortegnelse over børn hvis fornavn starter med dét bogstav, dét år. Seddelen er indsat hvor bogstavet C starter i år 1676. Nålen kan ses over"/"under "\""Regina"\"". }, se Tabel @NumberOf { kb }.
+
+@Table
+	@Caption { Kirkebogsindførsel }
+	@Location { AfterLine }
+	@Tag { kb }
+@Tbl
+	width { expand }
+	aformat { @Cell break { 0.4v lines } 0.75f @Font A | @Cell break { 0.4v lines } 0.75f @Font B }
+	bformat { @StartHSpan @Cell A | @HSpan }
+{
+@Rowb
+	A { @IncludeGraphic kb.eps }
+@Rowa
+	A { Den 30 Januarii
+Gedoopt een Kindt wiens naem is
+
+Carel Vreederÿck
+
+Ouders zÿn opgegeven te weten
+
+Carel Vreederick van Barlebendt.
+Juliana Regina van Breedenbach.
+
+De beeten ofte getuÿgen waren
+
+Gabriel Muÿlaen.
+Christiaen Ranzouw. }
+	B { Den 30. Januar
+Døbt et barn hvis navn er
+
+Carel Vreederÿck
+
+Forældre angivet at være
+
+Carel Vreederick van Barlebendt.
+Juliana Regina van Breedenbach.
+
+Fadderne eller vidnerne var
+
+Gabriel Muÿlaen.
+Christiaen Ranzouw. }
+@Rowa
+	paint { lightgrey }
+	indent { ctr }
+	ruleabove { yes }
+	A { @B { Hollandsk } }
+	B { @B { Dansk } }
+}
+
+@PP
+Heraf fremgår det at Carel Vreederijcks (Carl Friderichs) forældre er Carel Vreederick van Barlebendt og Juliana Regina van Breedenbach, samt at fadderne er Gabriel Muÿlaen @FootNote { Fejlagtig afskrift af original "\""Miiÿlaen"\""? } og Christiaen Ranzouw.
+
+@PP
+Det bemærkes iøvrigt at den indsatte seddel er skrevet med en anden hånd end de almindelige indførsler i kirkebogen. Det peger på at dåben er foretaget et andet sted, og derefter indsat i kirkebogen ved en senere lejlighed. Det kan iøvrigt ikke entydigt garanteres at dåben fandt sted i 1676 da der ikke er årstal på selve seddelen, men dens placering i kirkebogen argumenterer for det.
+
+@BeginSubSections
+
+@SubSection
+	@Title { Videre søgning }
+@Begin
+
+@PP
+Det formodes at ovennævnte Carel Vreederick van Barlebendt, den ældre, er afdød kort efter dåben, og at Milan og von Breitenbach er blevet viet kort efter. Den yngre van Barlebendt har derefter fået eller taget navnet Milan efter sin stedfader.
+
+@PP
+Hvis fadderen Christiaen Ranzouw er lig med Christian Rantzau til Salzau, Rastorf og Bürau (20. aug 1649 Rastorf - 17. aug 1704 Kiel) er det en mulighed at dåben reelt er foretaget i eller nær dennes hjemstavn. Rantzau skal have været provst i Preetz, Slesvig-Holsten 1669-75, det har dog ikke været muligt at undersøge eventuelle kirkebøger derfra på skrivende fod.
+
+@PP
+En anden mulighed er at det ikke er Carl Friderich Milans dåb der refereres på seddelen, men at han blev født senere og opkaldt efter seddelens hovedperson. Han kan så være døbt i Utrecht, jfr. brevet af 4. februar 1678 ovenfor. Baron Jacob de Petersen fik en søn i Utrecht 1674, og hans hustru skal være død samme sted 1678; han skal desuden have ejet en lystgård i landsbyen 's-Graveland @Cite {$krarup1, s. 116}.
+
+@PP
+Følgende kirkebøger i Utrecht og 's-Graveland er undersøgt uden held:
+
+@TaggedList
+	gap { 0.5v }
+@DropTagItem { Utrecht, @B { Alle gezindten @FootNote { Hollandsk: "\""Alle menigheder"\"". } }, @I { dopen 1675-1679 } }
+	{ "https://familysearch.org/pal:/MM9.3.1/TH-1942-33026-16505-17" }
+@DropTagItem { Utrecht, @B { Nederlands Hervormd }, @I { dopen 1665-1692 } }
+	{ "https://familysearch.org/pal:/MM9.3.1/TH-1951-33027-15097-74" }
+@DropTagItem { Utrecht, @B { Doopsgezinde }, @I { index geboorten 1659-1680 } }
+	{ "https://familysearch.org/pal:/MM9.3.1/TH-1971-28101-12220-85" }
+@DropTagItem { Utrecht, @B { Remonstrant }, @I { index dopen 1642-1682 } }
+	{ "https://familysearch.org/pal:/MM9.3.1/TH-1961-33031-25635-17" }
+@DropTagItem { Utrecht, @B { Evangelisch Luthers }, @I { dopen 1626-1699 } }
+	{ "https://familysearch.org/pal:/MM9.3.1/TH-1971-33038-1548-7" }
+@DropTagItem { Utrecht, @B { Oud Katholiek }, @I { dopen 1665-1810 } }
+	{ "https://familysearch.org/pal:/MM9.3.1/TH-1951-33033-9102-51" }
+@DropTagItem { Utrecht, @B { Rooms Katholiek }, @I { dopen 1669-1811 } }
+	{ "https://familysearch.org/pal:/MM9.3.1/TH-1942-33023-17697-63" }
+@DropTagItem { 's-Graveland, @B { Nederlands Hervormd }, @I { dopen, trouwen 1658-1725 } }
+	{ "https://familysearch.org/pal:/MM9.3.1/TH-1961-31188-9415-59" }
+@EndList
+
+@PP
+Det har desværre ikke været muligt at finde noget videre om Carel Vreederick van Barlebendt, men der skal findes flere tyske adelsslægter @I { Bardeleben }, hvoraf en også kaldes @I { Barleben } @FootNote { "\""Bardeleben (Magdeburg): Magdeburgisches Uradelsgeschlecht mit gleichnamigem Stammhaus Barleben bei Magdeburg."\"" - "http://de.wikipedia.org/wiki/Bardeleben" }.
+
+@End @SubSection
+
+@EndSubSections
+
+@End @Section
+
+@Section
+	@Title { Konklusion }
+@Begin
+
+@PP
+Med ovenstående in mente ser kronologien således ud:
+
+@TaggedList
+@DropTagItem { @Underline { ukendt dato, dog før 1676 } }
+	{ Gabriel Milans første kone ... da Castro, datter af Benjamin Musaphia, død @FootNote {"\""Nytaarsønske [til Milan] 1676 1"/"1 (fra Mette Trolle?) om en smuk Kone med mange Penge, Rigsark., Reg. 82 E 3 Nr. 23."\"" @Cite {$krarup1, s. 114} }. Det er forsøgt at undersøge Portugees Israëlietisch i Amsterdam, men deres "\""kirkebøger"\"" lader ikke til at være ført i perioden ca. 1650 - 1680 (hebr. 5410 - 5440). }
+@DropTagItem { @Underline { 30. januar 1676 } }
+	{ Carel Vrederijck van Barlebendt, den yngre, døbt. Indførsel i Amsterdam Evangelisch-Luthers. Bliver senere kaldt Milan efter sin stedfar. }
+@DropTagItem { @Underline { ukendt dato } }
+	{ Carel Vrederijck van Barlebendt, den ældre, død, formentlig i Holland. }
+@DropTagItem { @Underline { ukendt dato } }
+	{ Gabriel Milan + Juliana Regina von Breitenbach viet, formentlig i Holland. }
+@DropTagItem { @Underline { juli 1678 } }
+	{ Gabriel Milan forlader Holland med Juliana Regina von Breitenbach og deres fælles børn samt stedbørn. }
+@EndList
+
+@PP
+En endelig af- eller bekræftelse af teorien må søges ved at finde dokumentation for ovenstående begivenheder, i særdeleshed den ældre van Barlebendts død og vielsen mellem Milan og von Breitenbach. Amsterdams kirkebøger er undersøgt uden held, så (en del af) begivenhederne skal nok findes andetsteds, hvis kilderne er bevarede.
+
+@PP
+Sluttelig kan det siges, at eftersom hele Gabriel Milans kendte efterslægt nedstammer igennem Carl Friderich Milan og dennes afkom, er der således ingen (kendte) nulevende efterkommere af Gabriel Milan.
+
+@NP
+
+@End @Section
